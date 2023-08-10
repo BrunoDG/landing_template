@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Planet Kosmos';
+    font-weight: 500;
+    src: url('/fonts/planet-kosmos/PLANK__.TTF') format("ttf");
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    font-weight: 500;
+    src: url('fonts/league-spartan/LeagueSpartan.ttf') format("ttf");
+}

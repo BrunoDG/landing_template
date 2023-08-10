@@ -10,9 +10,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      /*fontFamily: {
-        montserrat: ['"Montserrat"'],
-      },*/
+      fontFamily: {
+        planet_kosmos: ['Planet Kosmos'],
+        spartan: ['League Spartan'],
+      },
     },
   },
   plugins: [],
