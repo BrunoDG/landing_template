@@ -1,5 +1,5 @@
 <template>
-    <div id="TopNav" class="fixed bg-white flex items-center w-full h-[80px] shadow-md">
+    <div id="TopNav" class="fixed bg-white flex items-center w-full h-[80px] shadow-md z-30">
         <div class="px-6 w-full h-[80px] flex items-center justify-between">
             <div class="flex items-center">
                 <img :src="theCompany.logo" alt="Company logo" class="w-[120px] h-[120px]" />

@@ -62,7 +62,7 @@
                                     </NuxtLink>
                                 </div>
                                 <div class="relative" v-if="isOpen === item.id">
-                                    <img class="z-10 h-[400px]" :src="item.image" />
+                                    <img class="h-[400px]" :src="item.image" />
                                 </div>
                             </div>
                         </div>

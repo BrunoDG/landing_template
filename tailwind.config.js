@@ -9,6 +9,9 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
+    fontFamily: {
+      sans: ['League Spartan'],
+    },
     extend: {
       fontFamily: {
         planet_kosmos: ['Planet Kosmos'],
