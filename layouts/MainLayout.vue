@@ -2,8 +2,9 @@
    <TopNav />
    <HeroDiv 
       title="Company"
-      image="/images/logo_black.png"
+      image="/images/hero_img.png"
    />
+   <Showcase />
 </template>
 
 <script setup lang="ts">
